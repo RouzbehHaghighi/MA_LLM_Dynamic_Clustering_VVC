@@ -17,7 +17,7 @@ This repository includes mathematical formulations, tables, and figures discusse
 
 ## Contents
 
-### DER Generation Models
+### I. DER Generation Models
 
 This study adopts standard steady-state WT and PV generation models to represent time-varying active-power injections from inverter-interfaced DERs. Environmental inputs are mapped to active-power outputs that serve as exogenous injections in the power-flow model and the subsequent VVC optimization.
 
@@ -53,7 +53,7 @@ $$
 
 where $P_{\mathrm{PV}}^{\mathrm{r}}$ is the rated PV active power (kW); $G_{\mathrm{irr}}$ is the solar irradiance (W/m²); $T_{\mathrm{a}}$ is the ambient temperature (°C); $\eta_T$ is the PV temperature coefficient (1/°C); $G_{\mathrm{ref}}$ is the reference irradiance; and $T_{\mathrm{ref}}$ is the reference cell temperature.
 
-### Inverter constraints and LinDistFlow-based VVC
+### II. Inverter constraints and LinDistFlow-based VVC
 
 Detailed formulations of the inverter capability constraints, operational power-factor limits, and the LinDistFlow-based VVC model are provided in this repository (cited in the paper as the companion repository).
 
