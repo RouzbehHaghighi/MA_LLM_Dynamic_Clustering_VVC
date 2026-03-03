@@ -14,14 +14,6 @@ This paper has been submitted to **IEEE Transactions on Smart Grid**
 Paper link:
 
 
-## Repository Structure
-/formulations        → Extended mathematical derivations
-/figures             → High-resolution figures
-/tables              → Supplementary tables
-/code                → Simulation and clustering implementation
-/data                → Input datasets (if sharable)
-
-
 ## Description
 
 It includes mathematical formulation, tables and figures related to  discussed in the paper. The repository aims to provide additional resources and data to support the research findings and facilitate further studies
@@ -51,3 +43,13 @@ It includes mathematical formulation, tables and figures related to  discussed i
 <img width="600" alt="Fig2" src="https://github.com/user-attachments/assets/bf7476b4-01d2-4e93-a5d8-ce1ef6875e9b">
 
 
+
+
+
+### Requirements
+- Python 3.x
+- CVXPY
+- NumPy
+- Pandas
+- Matplotlib
+- OpenAI API for MA-LLM interaction
