@@ -85,14 +85,6 @@ $$
 
 plus the inverter capability and power-factor constraints, with $V^{\mathrm{ref}}$ the reference voltage and $\underline{V}$, $\overline{V}$ the allowed voltage bounds. $\mathcal{N}$ denotes the set of buses and $\mathcal{N}_{\mathrm{inv}}$ the set of buses with inverters.
 
-### Tables
-
-1. **parameters**:
-
-
-### Figures
-1. **fe**:
-
 
 ## System requirements
 
